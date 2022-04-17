@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## Screenshot
-![Online IDE and Code Management ](https://github.com/saramazal/csb-n9hrpi/blob/gh-pages/slider-online-ide.png)
+![Online IDE and Code Management ](https://github.com/saramazal/csb-n9hrpi/blob/93ab95e632f0c069f04f23ccb68874224d5becdc/slider-online-ide.png)
 
 ## Links
 * [CodePen](https://codepen.io)
